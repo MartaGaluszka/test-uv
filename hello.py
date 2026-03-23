@@ -1,7 +1,7 @@
 import pandas
 
 print('test')
-print('testyerstyest')
+print('test')
 
 print('main force push')
 
